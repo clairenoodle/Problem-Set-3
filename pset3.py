@@ -4,11 +4,6 @@ import csv
 
 # Problem 1
 
-with open('CO-OPS__8729108__wl.csv', 'r')
-  reader
-import csv
-
-
 highest_water_level = float('-inf') # Create variable for water level and set it to negative infinity so any subsequent values will be larger
 highest_date_time = "" # Create variable for date and time that will correspond with the highest water level
 
